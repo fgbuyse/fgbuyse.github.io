@@ -29,28 +29,8 @@ author:
   location         : "Belgium"
   employer         : "Ghent University"
   uri              : # URL
-  email            : "florian.buyse@ugent.be" 
-
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.be/citations?user=e2Jyww4AAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-3515-868X"
-  semantic         : # URL
-  pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Florian-Buyse?ev=hdr_xprf"
-  scopus           : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : # Username
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+  email            : "florian.buyse@ugent.be"
+  
   # Social media
   artstation       : # Username
   bluesky          : # Replace this with you Bluesky username
@@ -77,6 +57,28 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  
+  # Academic websites
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.be/citations?user=e2Jyww4AAAAJ"
+  inspire-hep      : # URL
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0002-3515-868X"
+  semantic         : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Florian-Buyse?ev=hdr_xprf"
+  scopus           : # URL
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : # Username
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
