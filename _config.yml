@@ -224,7 +224,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: https://scholar.google.be/citations?user=e2Jyww4AAAAJ
   portfolio:
     output: true
     permalink: /:collection/:path/
