@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Under construction 
+
 <img src='/images/banner.jpeg'>
+
 About
 ======
 As a geologist, I am excited by the potential of 3D textural and mineralogical characterization to revolutionize our understanding of the formation history of critical mineral deposits. The accurate 3D
