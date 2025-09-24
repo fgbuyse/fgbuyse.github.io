@@ -17,3 +17,14 @@ mineralogical and geochemical characterization is particularly of interest to pe
 
 Projects
 ======
+3D textural and mineralogical investigation of critical element mineralization in LCT pegmatites
+
+<img src='/images/project_pegmatites.png'>
+
+Internal growth structures of polymetallic nodules from the Clarion-Clipperton zone and the Cook Islands
+
+<img src='/images/project_nodules.png'>
+
+High Resolution X-Ray Computed Tomography Pathfinder Tests
+
+<img src='/images/project_mars.png'>
