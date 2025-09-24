@@ -17,14 +17,24 @@ mineralogical and geochemical characterization is particularly of interest to pe
 
 Projects
 ======
-3D textural and mineralogical investigation of critical element mineralization in LCT pegmatites
+**3D textural and mineralogical investigation of critical element mineralization in LCT pegmatites**
 
-<img src='/images/project_pegmatites.png'>
+<p align="center"><img src='/images/project_pegmatites.png'/></p>
 
-Internal growth structures of polymetallic nodules from the Clarion-Clipperton zone and the Cook Islands
+_Figure: Differentiating spodumene, quartz-spodumene intergrowth and K-feldspar in 3D. See: https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Paper/27395_
 
-<img src='/images/project_nodules.png'>
 
-High Resolution X-Ray Computed Tomography Pathfinder Tests
 
-<img src='/images/project_mars.png'>
+**Internal growth structures of polymetallic nodules**
+
+<p align="center"><img src='/images/project_nodules.png'/></p>
+
+_Figure: Layering of the cortex using SEM-EDS mapping (RGB = FeMnSi)_
+
+
+
+**High Resolution X-Ray Computed Tomography Pathfinder Tests**
+
+<p align="center"><img src='/images/project_mars.png'/></p>
+
+_Figure: Example micro-CT slice of the sample tube with a granular analogue sample, scanned at Ghent University (voxel size: 10 µm). See: https://doi.org/10.5194/epsc-dps2025-1504_
