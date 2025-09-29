@@ -22,7 +22,7 @@ Projects
 
 _Figure: Differentiating spodumene, quartz-spodumene intergrowth and K-feldspar in 3D. See: <a href="https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Paper/27395" target="_blank">conference abstract</a>_
 
-<br></br>
+<br><br>
 
 **Internal growth structures of polymetallic nodules**
 
@@ -30,7 +30,7 @@ _Figure: Differentiating spodumene, quartz-spodumene intergrowth and K-feldspar 
 
 _Figure: Layering of the cortex using SEM-EDS mapping (RGB = FeMnSi)_
 
-<br></br>
+<br><br>
 
 **High Resolution X-Ray Computed Tomography Pathfinder Tests**
 
@@ -38,4 +38,4 @@ _Figure: Layering of the cortex using SEM-EDS mapping (RGB = FeMnSi)_
 
 _Figure: Example micro-CT slice of the sample tube with a granular analogue sample, scanned at Ghent University (voxel size: 10 µm). See: <a href="https://doi.org/10.5194/epsc-dps2025-1504" target="_blank">conference abstract</a>_
 
-<br></br>
+<br><br>
